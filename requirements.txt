@@ -1,0 +1,14 @@
+streamlit
+matplotlib
+numpy
+pandas
+Pillow
+sweetviz
+scikit-learn
+seaborn
+tensorflow
+shapash
+plotly
+codecarbon
+mlflow
+kaleido
